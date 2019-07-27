@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Convex Hull</h1>
   <p>A simple Convex Hull implementation using Scipy's Quickhull algorithm</p>
-  <p><a href="/notebooks/Simple%203D%20Convex%20Hull.ipynbJupyter Notebook">📓 Jupyter Notebook</a></p>
+  <p>📓 <a href="https://github.com/juniorxsound/ConvexHull/blob/master/notebooks/Simple%203D%20Convex%20Hull.ipynb">Jupyter Notebook</a></p>
   <img width="400px" src="/samples/convex_cover.png"></img>
 </div>
 
